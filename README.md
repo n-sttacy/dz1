@@ -4,6 +4,7 @@
 ## Данные студента:
 
 FIO: Королева Анастасия Игоревна
+
 GROUP: IU3-43Б
 
 email: nk-kaluga@yandex.ru
